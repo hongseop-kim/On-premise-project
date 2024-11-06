@@ -34,5 +34,5 @@ https://github.com/user-attachments/assets/07506d2b-15da-45cc-bebd-0fffe6884682
 
 
 
-### 관련 문서
+### ✉관련 문서
 [On-premise 환경 3-TIER 구축 발표자료.pdf](https://github.com/user-attachments/files/17645117/On-premise.3-TIER.pdf)
